@@ -9,6 +9,10 @@ Sebuah aplikasi RESTFul API untuk manajemen data kontak profil menggunakan Yii2 
 - Phone Number
 - Address
 
+## Dokumentasi RESTFul API
+
+- [contact-api.json](basic/docs/contact-api.json)
+
 ## Cara Penggunaan
 
 ### Setup Environment
